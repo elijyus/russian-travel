@@ -1,6 +1,8 @@
 # Проектная работа "Путешествия по России: адаптивная вёрстка"
 
-[Ссылка на GitHub Pages](https://elijyus.github.io/russian-travel/)
+---
+
+[Ссылка на GitHub Pages](https://elijyus.github.io/russian-travel/index.html)
 
 ---
 
@@ -24,5 +26,6 @@
 
 ---
 
-##Планы по доработке проекта:
+## Планы по доработке проекта:
+
 Добавить английскую версию сайта.
